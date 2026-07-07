@@ -94,5 +94,3 @@ Top 10 spenders:
 - **Gender mix:** balanced  
 
 Income does not determine high spending.
-
-## 📂 Repository Structure

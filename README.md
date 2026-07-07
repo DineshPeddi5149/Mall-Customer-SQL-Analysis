@@ -95,14 +95,4 @@ Top 10 spenders:
 
 Income does not determine high spending.
 
-**Business Action:**  
-Use behavioral segmentation (age + gender + spending score), not income segmentation.
-
----
-
-## 🧪 SQL Queries Used
-(Place your `mall_customers.sql` file here)
-
----
-
 ## 📂 Repository Structure
